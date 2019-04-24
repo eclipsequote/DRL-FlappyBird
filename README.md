@@ -1,5 +1,7 @@
 
 ## Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN)
+![Flappy_Bird](https://github.com/eclipsequote/Playing_Flappy_Bird_Using_DRL/blob/master/Flappy_Bird.gif)
+
 
 ## Include NIPS 2013 version and Nature Version DQN
 
